@@ -1,1 +1,1 @@
-localhost ansible_user=nehakothari
+localhost ansible_user=nehakothari ansible_python_interpreter=/usr/bin/python3
